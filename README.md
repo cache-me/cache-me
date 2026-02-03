@@ -80,26 +80,17 @@ const rakesh = {
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cache-me&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=cache-me&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cache-me&theme=radical&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
-</div>
-
-<br/>
-
 ## 🏆 GitHub Achievements
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=cache-me&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" alt="YOLO" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="100" alt="Quickdraw" />
+</p>
 
-</div>
+<p align="center">
+  <b>Pull Shark x3</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>YOLO</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>Quickdraw</b>
+</p>
 
 <br/>
 
