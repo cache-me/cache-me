@@ -117,12 +117,12 @@ Building intelligent AI-powered agents using **TypeScript** for automation and s
 </td>
 <td width="50%">
 
-### 💬 Real-Time Chatting App  
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/cache-me/Real-Time-chatting-App)
+### 🤖 ExamsPrep AI Platform  
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/cache-me/examsprep-ai)
 
-Full-stack chat application with **Socket.io** for instant messaging.
+Building intelligent AI-powered Educational Platform using **TypeScript** for automation and smart assistance.
 
-**Tech Stack:** React, Node.js, MongoDB, Socket.io
+**Tech Stack:** TypeScript, AI/ML
 
 </td>
 </tr>
