@@ -130,12 +130,12 @@ Building intelligent AI-powered Educational Platform using **TypeScript** for au
 <tr>
 <td width="50%">
 
-### 📹 Talkhouse
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/cache-me/Talkhouse)
+### 📹 Stickoff Programming
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/cache-me/stickoff)
 
-Video calling app with **WebSocket** and **Docker** support.
+Stick Off is a modern programming with **GO** language designed for web development.
 
-**Tech Stack:** TypeScript, React, Node.js, WebSocket, Docker
+**Tech Stack:** GO
 
 </td>
 <td width="50%">
